@@ -6562,24 +6562,14 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-image: url("https://wallpaperaccess.com/full/771258.jpg") !important;
-  background-color: #000000;
-  height: 700px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: #1abc9c !important;
 }
 
 a.bg-primary:hover,
 a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-image: url("https://wallpaperaccess.com/full/771258.jpg") !important;
-  background-color: #000000;
-  height: 700px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: #148f77 !important;
 }
 
 .bg-secondary {
@@ -10106,6 +10096,7 @@ a.text-dark:focus {
 
 .masthead .masthead-avatar {
   width: 15rem;
+  border-radius: 50%;
 }
 
 @media (min-width: 992px) {
